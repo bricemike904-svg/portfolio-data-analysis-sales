@@ -1,5 +1,3 @@
-# portfolio-data-analysis-sales
-
 # Analyse de portefeuille de ventes 2023-2024
 
 **Projet d'analyse de données visant à identifier les leviers de croissance et les zones de risques à partir d'un portefeuille de ventes fictif.**
