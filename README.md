@@ -1,12 +1,12 @@
 # portfolio-data-analysis-sales
 
-# 📈 Analyse de portefeuille de ventes 2023-2024
+# Analyse de portefeuille de ventes 2023-2024
 
 **Projet d'analyse de données visant à identifier les leviers de croissance et les zones de risques à partir d'un portefeuille de ventes fictif.**
 
 ---
 
-## 🎯 Objectif du projet
+## Objectif du projet
 L'objectif principal de cette analyse est d'exploiter les données de ventes historiques (janvier 2023 à décembre 2024) pour éclairer les décisions stratégiques pour l'année 2025.
 
 Les buts spécifiques sont :
@@ -14,14 +14,14 @@ Les buts spécifiques sont :
 *   **Détecter** les zones de risques (dépendances, chutes de performance).
 *   **Optimiser** l'allocation des ressources (stocks, marketing) pour maximiser le chiffre d'affaires.
 
-## 🛠️ Outils utilisés
+## Outils utilisés
 *   **Langage :** Python
 *   **Bibliothèques d'analyse :** Pandas, Matplotlib
 *   **Environnement :** Jupyter Notebook (le fichier source fourni)
 
 *Note : Les données utilisées ont été générées aléatoirement par IA et contiennent des erreurs intentionnelles pour simuler un scénario de nettoyage de données réaliste.*
 
-## 📊 Résultats clés
+## Résultats clés
 Plusieurs *insights* majeurs ont été extraits après le nettoyage des données et l'analyse exploratoire :
 
 *   **Le secteur Sport est le moteur principal de l'entreprise :** C'est la catégorie la plus performante, générant 30% de revenus de plus que la moyenne des autres catégories.
@@ -29,7 +29,7 @@ Plusieurs *insights* majeurs ont été extraits après le nettoyage des données
 *   **Saisonnalité identifiable :** Des pics de vente récurrents sont observés en début d'année (janvier-février) et en été (juillet-août), avec des creux au printemps (avril-mai).
 *   **Croissance positive mais vulnérable :** Bien que le CA ait augmenté entre 2023 et 2024, une chute brutale et inexpliquée a eu lieu en décembre 2024 (chute de 28% par rapport à 2023).
 
-## 💡 Recommandations business
+## Recommandations business
 Sur la base des résultats et des risques identifiés, voici les actions stratégiques recommandées pour 2025 :
 
 1.  **Sécuriser le produit "Lego" immédiatement :** Négocier des garanties de stock avec le fournisseur pour garantir 53 % des revenus de la catégorie "Jouets" et éviter une rupture d'approvisionnement.
